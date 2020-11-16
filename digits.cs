@@ -29,7 +29,6 @@ class digits
             }
             command = Console.ReadLine();
         }
-
         Console.WriteLine("one: {0} two: {1} three: {2} more: {3}", a, b, c, d); 
     }
 }
