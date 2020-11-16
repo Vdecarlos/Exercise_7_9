@@ -22,7 +22,7 @@ class digits
                 unitsCounter++; 
                 else if (input / 100 == 0)
                 b++;  
-                else if (input/1000 == 0)
+                else if (input / 1000 == 0)
                 c++;  
                 else
                 d++;  
